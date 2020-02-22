@@ -1,0 +1,98 @@
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #30a09a;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    text-align: center;
+    font-size: 48px;
+    color:white;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.navbar{
+    background-color: white;
+    
+}
+.navbar-brand {
+    margin-left: 2rem;
+
+}
+
+.name{
+    background-color: rgb(39, 177, 177);
+    color: white;
+}
+a{
+    color:darkgray;
+}
+
+.boarder{
+    color: rgb(247, 243, 243);
+}
+.card-body{
+    background-color:lightseagreen;
+    padding-bottom:-60px;
+
+}
+.card-text{
+    font-style: initial;
+    color: white;
+    ;
+}
+
+.container{
+    background-color: white
+}
+.hr{
+    color: gray;
+}
+
+h2{
+    color: rgb(39, 177, 177);
+}
+
+
+
+.boartop{
+    border-color: turquoise;
+    border-width: 5px;
+}
+.btn-primary{
+    background-color: rgb(39, 177, 177);
+    border-color: rgb(39, 177, 177);
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: white;
+    text-align: center;
+ }
+
+ @media(min-width:640px){
+    .main{
+       padding-right: 200px;
+       margin-right: auto; 
+    }
+
+}
+@media(min-width:980px){
+   .main{
+      padding-right: 300px;
+      margin-right: auto; 
+   }
+
+}
