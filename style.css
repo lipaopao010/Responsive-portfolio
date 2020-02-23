@@ -1,25 +1,3 @@
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #30a09a;
-    color: #ffffff;
-}
-
-.header h1 {
-    display: inline-block;
-    text-align: center;
-    font-size: 48px;
-    color:white;
-}
-
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
 .navbar{
     background-color: white;
     
@@ -54,6 +32,7 @@ a{
 .container{
     background-color: white;
     border: antiquewhite;
+    
 
 }
 .hr{
@@ -64,8 +43,6 @@ h2{
     color: rgb(39, 177, 177);
     margin-left: 20px;
 }
-
-
 
 .boartop{
     border-color: turquoise;
