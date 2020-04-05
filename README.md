@@ -1,4 +1,4 @@
-#Responsive Portfolio#
+# Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, we will likely be asked to create a mobile-first application or add responsive design to an existing application.
 
@@ -11,5 +11,7 @@ a navbar,a responsive layout and responsive images.
 The grid system is used for the layout of the main contents.But i did use media queries to create some extra margin in bigger screens.
 
 From this project, I successfully made an responsive portfolio using Bootstrap.
+## Deployed link
+ https://lipaopao010.github.io/Responsive-portfolio/
 
 
